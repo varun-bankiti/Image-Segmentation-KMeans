@@ -1,0 +1,8 @@
+An Image Segmentation and Compression tool based on K-Means clustering algorithm.
+
+Usage:
+	Javac KMeans.java
+	Java KMeans inputImage #OfClusters outputImage
+
+Requirements:
+	Java 7
